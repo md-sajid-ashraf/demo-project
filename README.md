@@ -1,4 +1,4 @@
 # demo-project
 This is my first Git Repository.
 <br>
-Author - Md Sajid Ashraf
+Author - Md Sajid Ashraf (Developer)
